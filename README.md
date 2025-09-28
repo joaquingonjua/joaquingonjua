@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->### 🚀 Tecnologías
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingonjua&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaquingonjua&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaquingonjua&theme=github)
+![Metrics](https://github.com/joaquingonjua/joaquingonjua/blob/main/github-metrics.svg)
+
 
