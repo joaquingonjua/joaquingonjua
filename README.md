@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 </p>
 
 ![Tecnologías](assets/tecnologias.png)
+
+### 🚀 Stack Tecnológico
+```mermaid
+graph TD
+  A[Frontend] --> B[React]
+  A --> C[HTML]
+  A --> D[CSS]
+  E[Backend] --> F[Java]
+  E --> G[C#]
+  E --> H[SQL Server]
