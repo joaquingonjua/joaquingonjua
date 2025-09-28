@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+![Tecnologías](assets/tecnologias.png)
