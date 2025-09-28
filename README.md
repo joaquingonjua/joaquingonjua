@@ -14,14 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->### 🚀 Tecnologías
-![Stack Tecnológico](assets/tecnologias.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
-### 🚀 Stack Tecnológico
-```mermaid
-graph TD
-  A[Frontend] --> B[React]
-  A --> C[HTML]
-  A --> D[CSS]
-  E[Backend] --> F[Java]
-  E --> G[C#]
-  E --> H[SQL Server]
